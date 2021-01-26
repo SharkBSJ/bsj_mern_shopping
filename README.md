@@ -8,7 +8,7 @@
       * Youtube : https://www.youtube.com/watch?v=0divhP3pEsg&t=12327s  
       * Github : https://github.com/LloydJanseVanRensburg/mini-mern-ecommerce-project
 
-- What I used for these project is below  
+- What I used for this project is below  
   * Mongo DB (Database)
   * Express js (Server)
   * React js (Client)  
