@@ -13,6 +13,7 @@
   * Express js (Server)
   * React js (Client)  
   * Redux (Client, State Container)
+  * Node js (Web Application Development Platform)
 
 - How to build (Reference : ./package.json > scripts)
 ```
