@@ -14,6 +14,7 @@
   * React js (Client)  
   * Redux (Client, State Container)
   * Node js (Web Application Development Platform)
+  * Visual Studio Code (IDE) 
 
 - How to build (Reference : ./package.json > scripts)
 ```
