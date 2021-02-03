@@ -3,7 +3,7 @@
 - Run Screen  
 <p align="center"><img src="./README_img.png"></p>  
 
-- I made web application for studing  
+- I made a web application for studying  
   * What I referenced is below
       * Youtube : https://www.youtube.com/watch?v=0divhP3pEsg&t=12327s  
       * Github : https://github.com/LloydJanseVanRensburg/mini-mern-ecommerce-project
